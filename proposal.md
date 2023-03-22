@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *Lighting*
+## Software: *Lightning*
 
 *A library for large-scale linear classification, regression, and ranking in Python. Its primary audience is people who need a tool for more complex classificaiton, regression, and/or ranking of their data*
 
