@@ -12,13 +12,13 @@ Please edit this file and push to your repository.
 | Repository URL |  https://github.com/scikit-learn-contrib/lightning  |
 | Main/documentation website |  https://contrib.scikit-learn.org/lightning/intro.html  |
 | Year project was started | June 16 2021  |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
+| Number of contributors in the past year | 3 |
 | Number of contributors in the lifetime of the project | 15  |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | Github  |
 | Typical number of emails/comments per week? | 2  |
 | Typical number of commits per week? | 2-3 |
-| Typical commit size | `git log --shortstat` may be useful |
+| Typical commit size | not sure |
 | How does the project accept contributions? | Pull requests   |
 | Does the project have an automated test suite? | Yes (I think) |
 | Does the project use continuous integration? | No (I think) |
